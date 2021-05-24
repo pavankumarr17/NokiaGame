@@ -5,6 +5,7 @@ Developed a SnakeGame (Nokia phone ***Nostalgia***), which we played the most in
 using C++ language
 
 
-![Screenshot (158)](https://user-images.githubusercontent.com/38040515/119350599-29bc9e00-bcbd-11eb-80bb-5adeb48d0ef0.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/38040515/119351146-c8e19580-bcbd-11eb-8bf7-cd785a22ade6.png)
+
 
 Hope you enjoy the game!
